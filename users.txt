@@ -1,0 +1,7 @@
+ayaan;12345$;Admin;Ayaan;Minhas;ayaan@gmail.com
+noorullah;12345$;SalesManager;Noorullah;Baig;noorullah@gmail.com
+arib;12345$;InventoryManager;Arib;Rizwan;arib@gmail.com
+raihan;12345$;FinanceManager;Raihaan;Ahmed;raihan@gmail.com
+raihan;12345$;FinanceManager;Raihaan;Ahmed;raihan@gmail.com
+ajney;12345$;PurchaseManager;Ajney;Lal;ajney@gmail.com
+bibo;123456!;Admin;asd;sdad;asd@gmail.com

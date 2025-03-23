@@ -1,0 +1,6 @@
+S001;7Eleven;1234567890;Kuala Lumpur
+S002;MrDIY;1234567890;Kuala Lumpur
+S003;BilaBila;1234567890;Penang
+S004;MyNews;1234567890;Langkawi
+S005;KK;1234567890;Johar Baru
+S006;FamilyMart;1234567890;Selangor
